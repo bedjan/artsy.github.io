@@ -1,0 +1,47 @@
+---
+layout: epic
+title: DevSwap
+date: 2017-09-04
+categories: [culture, teams, people]
+author: [kana]
+---
+
+If you’ve read about Artsy Engineering’s [product teams][product] before, you'd know that we organize ourselves within these well-defined teams with specific business goals. Of course, these teams tend to work on similar technologies and even stacks, so we also have a concept of “practices” which are cross-team groups that discuss ideas that apply across teams.
+
+These teams work great for us, but we’ve recently received some feedback about wanting more cross-team collaboration and knowledge sharing. This isn’t anything new, but it did give us an opportunity to get a little creative.
+
+<!-- more -->
+
+Solution
+Over the next few weeks, the engineer leads started to devise a plan for a project we’d later call DevSwap.
+
+A few weeks ago, for the first time ever, we tried something different, something we’re calling DevSwap.
+
+So, what’s DevSwap? For the first iteration of it, we decided on it lasting for two full business days. We introduced the teams the previous Monday, and by the following Monday and Tuesday, we were all writing code for different teams. Here are the guidelines we followed:
+
+1. 2 days
+2. Product folks have been notified
+3. Sit by your new team and coordinate meeting times with remote members
+4. Pairing opportunity
+5. Engineering Retro
+6. Business as usual
+
+## Results
+
+Our EU engineers kicked off DevSwap on Monday, tackling both the struggle of create. This posed another interesting problem — how would engineers in EU manage being on different time zones for two days?
+
+At the end, we were able to deliver on some really interesting work. There were some really interesting improvements like [modernizing codebases] and [adding prettier] and even building product. For me personally, the kind of work that was being done was both in line with regular business, but also included the experience of completely different engineers, which was so valuable. If it wasn’t for Chris joining the Publishing team, how long would it have really taken us to modernize ourselves with a Babel pipeline? We’re often so involved in our own work that addressing things like technical debt can feel so far away. Why not have someone entirely from the outside come in and fix it for you?
+
+## Feedback
+Below is some feedback we got from our engineers afterwards.
+
+First, we wanted to gauge how good of a 
+
+Most commonly, folks wanted DevSwap to last a little bit longer:
+[Graph of length]
+
+Finally, here are some anecdotes from our team members directly:
+
+Overall we approached the swap as an experiment and the results were very interesting. The risk was low, and the reward turned out to be high. People valued being given a chance to do this, and understand other product team goals. It made us all a little more empathetic. We weren’t afraid of everything falling apart since it was only two days.
+
+[product]: https://developers.artsy.net/docs/artists
